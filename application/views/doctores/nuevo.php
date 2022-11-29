@@ -9,7 +9,7 @@
   </div>
   <div class="col-md-7">
 
-    <input type="number" name="cedula_est" value="" class="form-control" placeholder="Ingrese el número de cédula" required>
+    <input type="number" name="cedula_doc" value="" class="form-control" placeholder="Ingrese el número de cédula" required>
   </div>
 </div>
 <br>
@@ -19,7 +19,7 @@
   </div>
   <div class="col-md-7">
 
-    <input type="text" name="cedula_est" value="" class="form-control" placeholder="Ingrese el número de cédula" required>
+    <input type="text" name="apellido_doc" value="" class="form-control" placeholder="Ingrese el apellido" required>
   </div>
 </div>
 <br>
@@ -29,7 +29,7 @@
   </div>
   <div class="col-md-7">
 
-    <input type="text" name="cedula_est" value="" class="form-control" placeholder="Ingrese el número de cédula" required>
+    <input type="text" name="nombre_doc" value="" class="form-control" placeholder="Ingrese el nombre" required>
   </div>
 </div>
 <br>
@@ -39,7 +39,7 @@
   </div>
   <div class="col-md-7">
 
-    <input type="text" name="cedula_est" value="" class="form-control" placeholder="Ingrese el número de cédula" required>
+    <input type="text" name="telefono_doc" value="" class="form-control" placeholder="Ingrese el telefono" required>
   </div>
 </div>
 <br>
@@ -49,7 +49,7 @@
   </div>
   <div class="col-md-7">
 
-    <input type="text" name="cedula_est" value="" class="form-control" placeholder="Ingrese el número de cédula" required>
+    <input type="text" name="direccion_doc" value="" class="form-control" placeholder="Ingrese la direccion" required>
   </div>
 </div>
 <br>
@@ -59,7 +59,7 @@
   </div>
   <div class="col-md-7">
 
-    <input type="date" name="cedula_est" value="" class="form-control" placeholder="Ingrese el número de cédula" required>
+    <input type="date" name="fecha_nacimiento_doc" value="" class="form-control" placeholder="Ingrese la fecha de nacimiento" required>
   </div>
 </div>
 <br>
@@ -69,7 +69,7 @@
   </div>
   <div class="col-md-7">
 
-    <input type="text" name="cedula_est" value="" class="form-control" placeholder="Ingrese el número de cédula" required>
+    <input type="text" name="especialidad_doc" value="" class="form-control" placeholder="Ingrese la especialuidad" required>
   </div>
 </div>
 <br>

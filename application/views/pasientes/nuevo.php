@@ -16,7 +16,7 @@
   </div>
   <div class="col-md-7">
 
-    <input type="number" name="cedula_est" value="" class="form-control" placeholder="Ingrese el número de cédula" required>
+    <input type="number" name="cedula_pas" value="" class="form-control" placeholder="Ingrese el número de cédula" required>
   </div>
 </div>
 <br>
@@ -26,7 +26,7 @@
   </div>
   <div class="col-md-7">
 
-    <input type="text" name="cedula_est" value="" class="form-control" placeholder="Ingrese el número de cédula" required>
+    <input type="text" name="apellido_pas" value="" class="form-control" placeholder="Ingrese sua apellido" required>
   </div>
 </div>
 <br>
@@ -36,7 +36,7 @@
   </div>
   <div class="col-md-7">
 
-    <input type="text" name="cedula_est" value="" class="form-control" placeholder="Ingrese el número de cédula" required>
+    <input type="text" name="nombre_pas" value="" class="form-control" placeholder="Ingrese el nombre" required>
   </div>
 </div>
 <br>
@@ -46,7 +46,7 @@
   </div>
   <div class="col-md-7">
 
-    <input type="text" name="cedula_est" value="" class="form-control" placeholder="Ingrese el número de cédula" required>
+    <input type="number" name="telefono_pas" value="" class="form-control" placeholder="Ingrese el telefono" required>
   </div>
 </div>
 <br>
@@ -56,7 +56,7 @@
   </div>
   <div class="col-md-7">
 
-    <input type="text" name="cedula_est" value="" class="form-control" placeholder="Ingrese el número de cédula" required>
+    <input type="text" name="direccion_pas" value="" class="form-control" placeholder="Ingrese la direccion" required>
   </div>
 </div>
 <br>
@@ -66,7 +66,7 @@
   </div>
   <div class="col-md-7">
 
-    <input type="date" name="cedula_est" value="" class="form-control" placeholder="Ingrese el número de cédula" required>
+    <input type="date" name="fecha_nacimiento" value="" class="form-control" placeholder="Ingrese la fecha de nacimiento" required>
   </div>
 </div>
 <br>
@@ -76,7 +76,7 @@
   </div>
   <div class="col-md-7">
 
-    <input type="text" name="cedula_est" value="" class="form-control" placeholder="Ingrese el número de cédula" required>
+    <input type="text" name="sintomas_pas" value="" class="form-control" placeholder="Ingrese los sintomas del pasiente" required>
   </div>
 </div>
 <br>
@@ -86,7 +86,7 @@
   </div>
   <div class="col-md-7">
 
-    <input type="text" name="cedula_est" value="" class="form-control" placeholder="Ingrese el número de cédula" required>
+    <input type="text" name="descripcion_pas" value="" class="form-control" placeholder="Ingrese la descripcion del pasiente" required>
   </div>
 </div>
 <br>
